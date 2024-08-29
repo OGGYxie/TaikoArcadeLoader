@@ -107,3 +107,4 @@ enabled = false
 datatable_key = ""
 fumen_key = ""
 ```
+
